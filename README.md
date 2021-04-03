@@ -1,12 +1,12 @@
 
 # Srimanth Mahadev Kancharla
-### Personal Details
+## Personal Details
 - Dob: **05/05/2002**
 - Email: **srimanthmahadev22@gmail.com**
 - phone: **8008313667**
 - Address: **Guntur**
 
-### Educational Details
+## Educational Details
 **B.tech**
  - **2019-23**
  - **Computer Science & Engineering**
@@ -25,7 +25,7 @@
   - **Sri Chaitanya School**
   - **Guntur, Ap, INDIA.**
 
-### Technical Skills
+## Technical Skills
   - JAVA
   - C
   - Python
