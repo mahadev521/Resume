@@ -9,20 +9,20 @@
 ### Educational Details
 B.tech 
  - **2019-23**
- - **RVR & JC College of Engineering**
  - **Computer Science & Engineering**
+ - **RVR & JC College of Engineering**
  - **Guntur, AP, INDIA.**
 
 Intermediate
   - **2017-19**
-  - **Sri Chaitanya Jr college**
   - **MPC**
+  - **Sri Chaitanya Jr college**
   - **Guntur, AP, INDIA.**
 
 SSC
   - **2016-17**
-  - **Sri Chaitanya School**
   - **SSC- English medium**
+  - **Sri Chaitanya School**
   - **Guntur, Ap, INDIA.**
 
 ### Technical Skills
