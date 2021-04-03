@@ -19,7 +19,7 @@
   - **Sri Chaitanya Jr college**
   - **Guntur, AP, INDIA.**
 
-**SSC**
+***SSC***
   - **2016-17**
   - **SSC- English medium**
   - **Sri Chaitanya School**
