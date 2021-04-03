@@ -13,7 +13,7 @@
  - **RVR & JC College of Engineering**
  - **Guntur, AP, INDIA.**
 
-**Intermediate**
+-**Intermediate**
   - **2017-19**
   - **MPC**
   - **Sri Chaitanya Jr college**
