@@ -1,5 +1,4 @@
 # Srimanth Mahadev Kancharla
-----------------------------
 ### Personal Details
 - Dob: **05/05/2002**
 - Email: **srimanthmahadev22@gmail.com**
