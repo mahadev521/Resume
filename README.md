@@ -1,5 +1,4 @@
 
-
 # Srimanth Mahadev Kancharla
 ### Personal Details
 - Dob: **05/05/2002**
@@ -8,19 +7,19 @@
 - Address: **Guntur**
 
 ### Educational Details
-B.tech 
+**B.tech**
  - **2019-23**
  - **Computer Science & Engineering**
  - **RVR & JC College of Engineering**
  - **Guntur, AP, INDIA.**
 
-Intermediate
+**Intermediate**
   - **2017-19**
   - **MPC**
   - **Sri Chaitanya Jr college**
   - **Guntur, AP, INDIA.**
 
-SSC
+**SSC**
   - **2016-17**
   - **SSC- English medium**
   - **Sri Chaitanya School**
